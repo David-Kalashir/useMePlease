@@ -1,0 +1,15 @@
+app:
+  name: 'GoTempForAli'
+  version: '1.0.0'
+
+http:
+  port: '8080'
+
+logger:
+  log_level: 'debug'
+  rollbar_env: 'go_temp_ali'
+
+postgres:
+  pool_max: 2
+
+

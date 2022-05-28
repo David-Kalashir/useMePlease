@@ -1,0 +1,9 @@
+basePath: /v1
+definitions:
+ 
+host: localhost:8080
+info:
+ 
+paths:
+
+swagger: "2.0"
